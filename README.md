@@ -2,6 +2,8 @@
 
 Simple tool to remove the Weedhack stealer malware, primarily targeting Minecraft players.
 
+**(note: if you are infected with malware, you should always restore from a backup or reset, other malware could have been installed while Weedhack was active, be vigilant)**
+
 ```
 detection_rules:
   strings:
